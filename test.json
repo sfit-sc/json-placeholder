@@ -10,7 +10,7 @@
     "uid": "1-422753831",
     "scholarLink":"https://scholar.google.co.in/citations?user=IIXavDEAAAAJ&amp;hl=en",
     "home":[
-              "academicBackground":[
+            { "academicBackground":[
                                     {
                                      "phd":[
                                               {
@@ -44,6 +44,7 @@
                           }
                         ],
               "affilitations":"Affiliations with Professional Bodies",
+              }
             ],
     "":"",
     "":"",
