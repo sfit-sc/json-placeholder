@@ -1,9 +1,9 @@
 [
   {
     "name": "DR. KAVITA SONAWANE",
-    "jobTitle": "HOD & Professor",
+    "title": "HOD & Professor",
     "emailId": "kavitasonawane@sfit.ac.in",
-    "image": "https://www.sfit.ac.in/sfitenggadmin/images/profiles/25092018155554.png",
+    "imageUrl": "https://www.sfit.ac.in/sfitenggadmin/images/profiles/25092018155554.png",
     "phone": "28928585-236",
     "interest": [
                   "Image Processing", 
@@ -17,7 +17,7 @@
     "home":[
               {
                 "academicBackground":[{
-                                      "phd":[
+                                        "phd":[
                                                 "MPSTME, NMIMS University,Mumbai 2015",
                                                 "Research Topic: Bins Approach To Content based Image retrieval"
                                             ],
@@ -25,7 +25,7 @@
                                                 "Thadomal Shahani Engg. College, Mumbai Univ. 2008",
                                                 "Dissertation Title: Retrieval of Images Based on Contents"
                                             ],
-                                          "be":[
+                                        "be":[
                                                   "M.I.E.T, Gondia, Nagpur Univ 2001",
                                                   "Project: E commerce Website"
                                               ]

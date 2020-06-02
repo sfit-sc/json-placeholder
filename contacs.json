@@ -1,0 +1,81 @@
+[
+    {
+        "location":["Mount Poinsur", "S.V.P. Road", "Borivali (West)", "Mumbai 400 103"],
+        "contactNumber":"022-28928585",
+        "fax":" 022-28954787",
+        "emailId":"sfedu@sfit.ac.in",
+        "deptContacts": [
+            {
+                "deptName":"General Enquiry",
+                "person":"Ms. Asha D'Abreao",
+                "extension":"1303"
+            },
+            {
+                "deptName":"Admissions",
+                "person":"Ms. Arina D’Souza",
+                "extension":"1305"
+            },
+            {
+                "deptName":"M.E. / Ph.D.",
+                "person":"Mr. Nadim Ansari",
+                "extension":"1308"
+            },
+            {
+                "deptName":"Exam Cell",
+                "person":"Ms. Mamta D’Souza",
+                "extension":"1021"
+            },
+            {
+                "deptName":"Accounts Department",
+                "person":"Ms. Renu",
+                "extension":"1292"
+            },
+            {
+                "deptName":"Library",
+                "person":"Ms. Chinmayee Bhange",
+                "extension":"2281"
+            },
+            {
+                "deptName":"Placement / Industrial Relations",
+                "person":"Mr. Wilson Pinto",
+                "emailId":"tpo@sfit.ac.in",
+                "extension":"1101"
+            },
+            {
+                "deptName":"RAD lab & Entrepreneurship Cel",
+                "person":"Dr. Prachi Raut",
+                "extension":"3041"
+            },
+            {
+                "deptName":"Dean Student Affairs",
+                "person":"Dr. C. Hariprasad",
+                "extension":"2171"
+            },
+            {
+                "deptName":"Science & HSS",
+                "person":"Dr. Poonam Hemnani",
+                "extension":"7011"
+            },
+            {
+                "deptName":"INFT Department",
+                "person":"Dr. Joanne Gomes",
+                "extension":"3321"
+            },
+            {
+                "deptName":"CMPN Department",
+                "person":"Dr. Kavita Sonawane",
+                "extension":"4321"
+            },
+            {
+                "deptName":"EXTC Department",
+                "person":"Dr. Gautam Shah",
+                "extension":"5321"
+            },
+            {
+                "deptName":"Mech Department",
+                "person":"Mr. Sunil Pansare",
+                "extension":"2011"
+            }
+        ]
+    }
+]
