@@ -47,4 +47,148 @@
 
     
   }
+  {
+    "name": "Shruti kamath",
+    "title": "HOD & Professor",
+    "emailId": "kavitasonawane@sfit.ac.in",
+    "imageUrl": "https://www.sfit.ac.in/sfitenggadmin/images/profiles/25092018155554.png",
+    "phone": "28928585-236",
+    "interest": [
+                  "Image Processing", 
+                  "Image retreival", 
+                  "Medical Image Analysis",
+                  "Software Engineering and analysis modeling"
+                ],
+    "dob": "03/21/1980",
+    "uid": "1-422753831",
+    "scholarLink":"https://scholar.google.co.in/citations?user=IIXavDEAAAAJ&amp;hl=en",
+    "home":[
+              {
+                "academicBackground":[{
+                                        "phd":[
+                                                "MPSTME, NMIMS University,Mumbai 2015",
+                                                "Research Topic: Bins Approach To Content based Image retrieval"
+                                            ],
+                                        "me":[
+                                                "Thadomal Shahani Engg. College, Mumbai Univ. 2008",
+                                                "Dissertation Title: Retrieval of Images Based on Contents"
+                                            ],
+                                        "be":[
+                                                  "M.I.E.T, Gondia, Nagpur Univ 2001",
+                                                  "Project: E commerce Website"
+                                              ]
+                                      }],
+                "research":"Image Processing, Image retreival, Medical Image anayslsis",
+                "workXP": [
+                            {
+                              "total":"16 years",
+                              "teaching":"16 years",
+                              "professor":"2.5 Year",
+                              "associate":"5 years",
+                              "assistant":"5 years",
+                              "lecturer":"3.5 years"
+                            }
+                          ],
+                "affilitations":"Affiliations with Professional Bodies"
+                }
+            ]
+
+    
+  }
+  {
+    "name": "Ritika",
+    "title": "HOD & Professor",
+    "emailId": "kavitasonawane@sfit.ac.in",
+    "imageUrl": "https://www.sfit.ac.in/sfitenggadmin/images/profiles/25092018155554.png",
+    "phone": "28928585-236",
+    "interest": [
+                  "Image Processing", 
+                  "Image retreival", 
+                  "Medical Image Analysis",
+                  "Software Engineering and analysis modeling"
+                ],
+    "dob": "03/21/1980",
+    "uid": "1-422753831",
+    "scholarLink":"https://scholar.google.co.in/citations?user=IIXavDEAAAAJ&amp;hl=en",
+    "home":[
+              {
+                "academicBackground":[{
+                                        "phd":[
+                                                "MPSTME, NMIMS University,Mumbai 2015",
+                                                "Research Topic: Bins Approach To Content based Image retrieval"
+                                            ],
+                                        "me":[
+                                                "Thadomal Shahani Engg. College, Mumbai Univ. 2008",
+                                                "Dissertation Title: Retrieval of Images Based on Contents"
+                                            ],
+                                        "be":[
+                                                  "M.I.E.T, Gondia, Nagpur Univ 2001",
+                                                  "Project: E commerce Website"
+                                              ]
+                                      }],
+                "research":"Image Processing, Image retreival, Medical Image anayslsis",
+                "workXP": [
+                            {
+                              "total":"16 years",
+                              "teaching":"16 years",
+                              "professor":"2.5 Year",
+                              "associate":"5 years",
+                              "assistant":"5 years",
+                              "lecturer":"3.5 years"
+                            }
+                          ],
+                "affilitations":"Affiliations with Professional Bodies"
+                }
+            ]
+
+    
+  }
+  {
+    "name": "DR. KAVITA SONAWANE",
+    "title": "HOD & Professor",
+    "emailId": "kavitasonawane@sfit.ac.in",
+    "imageUrl": "https://www.sfit.ac.in/sfitenggadmin/images/profiles/25092018155554.png",
+    "phone": "28928585-236",
+    "interest": [
+                  "Image Processing", 
+                  "Image retreival", 
+                  "Medical Image Analysis",
+                  "Software Engineering and analysis modeling"
+                ],
+    "dob": "03/21/1980",
+    "uid": "1-422753831",
+    "scholarLink":"https://scholar.google.co.in/citations?user=IIXavDEAAAAJ&amp;hl=en",
+    "home":[
+              {
+                "academicBackground":[{
+                                        "phd":[
+                                                "MPSTME, NMIMS University,Mumbai 2015",
+                                                "Research Topic: Bins Approach To Content based Image retrieval"
+                                            ],
+                                        "me":[
+                                                "Thadomal Shahani Engg. College, Mumbai Univ. 2008",
+                                                "Dissertation Title: Retrieval of Images Based on Contents"
+                                            ],
+                                        "be":[
+                                                  "M.I.E.T, Gondia, Nagpur Univ 2001",
+                                                  "Project: E commerce Website"
+                                              ]
+                                      }],
+                "research":"Image Processing, Image retreival, Medical Image anayslsis",
+                "workXP": [
+                            {
+                              "total":"16 years",
+                              "teaching":"16 years",
+                              "professor":"2.5 Year",
+                              "associate":"5 years",
+                              "assistant":"5 years",
+                              "lecturer":"3.5 years"
+                            }
+                          ],
+                "affilitations":"Affiliations with Professional Bodies"
+                }
+            ]
+
+    
+  }
 ]
