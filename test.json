@@ -9,43 +9,6 @@
     "dob": "03/21/1980",
     "uid": "1-422753831",
     "scholarLink":"https://scholar.google.co.in/citations?user=IIXavDEAAAAJ&amp;hl=en",
-   //  "home":[
-   //          { "academicBackground":[
-   //                                  {
-   //                                   "phd":[
-   //                                            {
-   //                                               "field1":"MPSTME, NMIMS University,Mumbai 2015",
-   //                                                "field2":"Research Topic: Bins Approach To Content based Image retrieval"
-   //                                             }
-   //                                          ],
-   //                                    "me":[
-   //                                            {
-   //                                               "field1":"Thadomal Shahani Engg. College, Mumbai Univ. 2008",
-   //                                                "field2":"Dissertation Title: Retrieval of Images Based on Contents"
-   //                                             }
-   //                                          ],
-   //                                      "be":[
-   //                                            {
-   //                                               "field1":"M.I.E.T, Gondia, Nagpur Univ 2001",
-   //                                                "field2":"Project: E commerce Website"
-   //                                             }
-   //                                          ]
-   //                                   }
-   //                                  ],
-   //            "research":"Image Processing, Image retreival, Medical Image anayslsis",
-   //            "workXP": [
-   //                        {
-   //                          "total":"16 years",
-   //                          "teaching":"16 years",
-   //                          "professor":"2.5 Year",
-   //                          "associate":"5 years",
-   //                          "assistant":"5 years",
-   //                          "lecturer":"3.5 years"
-   //                        }
-   //                      ],
-   //            "affilitations":"Affiliations with Professional Bodies"
-   //            }
-   //          ]
-   
+    
   }
 ]
