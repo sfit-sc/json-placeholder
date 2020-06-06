@@ -8,43 +8,51 @@
             {
                 "deptName":"General Enquiry",
                 "person":"Ms. Asha D'Abreao",
-                "extension":"1303"
+                "extension":"1303",
+                "initials": "AD"
             },
             {
                 "deptName":"Admissions",
                 "person":"Ms. Arina D’Souza",
-                "extension":"1305"
+                "extension":"1305",
+                "initials": "AD"
             },
             {
                 "deptName":"M.E. / Ph.D.",
                 "person":"Mr. Nadim Ansari",
-                "extension":"1308"
+                "extension":"1308",
+                "initials": "NA"
             },
             {
                 "deptName":"Exam Cell",
                 "person":"Ms. Mamta D’Souza",
-                "extension":"1021"
+                "extension":"1021",
+                "initials": "MD"
             },
             {
                 "deptName":"Accounts Department",
                 "person":"Ms. Renu",
-                "extension":"1292"
+                "extension":"1292",
+                "initials": "R",
             },
             {
                 "deptName":"Library",
                 "person":"Ms. Chinmayee Bhange",
-                "extension":"2281"
+                "extension":"2281",
+                "initials": "CB"
             },
             {
                 "deptName":"Placement / Industrial Relations",
                 "person":"Mr. Wilson Pinto",
                 "emailId":"tpo@sfit.ac.in",
-                "extension":"1101"
+                "extension":"1101",
+                "initials": "WP"
             },
             {
                 "deptName":"RAD lab & Entrepreneurship Cel",
                 "person":"Dr. Prachi Raut",
-                "extension":"3041"
+                "extension":"3041",
+                "initials": "PR"
             },
             {
                 "deptName":"Dean Student Affairs",
@@ -54,27 +62,32 @@
             {
                 "deptName":"Science & HSS",
                 "person":"Dr. Poonam Hemnani",
-                "extension":"7011"
+                "extension":"7011",
+                "initials": "PH"
             },
             {
                 "deptName":"INFT Department",
                 "person":"Dr. Joanne Gomes",
-                "extension":"3321"
+                "extension":"3321",
+                "initials": "JG"
             },
             {
                 "deptName":"CMPN Department",
                 "person":"Dr. Kavita Sonawane",
-                "extension":"4321"
+                "extension":"4321",
+                "initials": "KS"
             },
             {
                 "deptName":"EXTC Department",
                 "person":"Dr. Gautam Shah",
-                "extension":"5321"
+                "extension":"5321",
+                "initials": "GS"
             },
             {
                 "deptName":"Mech Department",
                 "person":"Mr. Sunil Pansare",
-                "extension":"2011"
+                "extension":"2011",
+                "initials": "SP"
             }
         ]
     }
