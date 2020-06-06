@@ -57,7 +57,8 @@
             {
                 "deptName":"Dean Student Affairs",
                 "person":"Dr. C. Hariprasad",
-                "extension":"2171"
+                "extension":"2171",
+                "initials": "CH"
             },
             {
                 "deptName":"Science & HSS",
