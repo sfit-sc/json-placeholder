@@ -5,10 +5,12 @@
 	"pid": "111111",
 	"subjectsData": [
 		{
+			"subjectName": "Operating Systems",
 			"subjectCode": "OS",
 			"attendance": "70"
 		},
 		{
+			"subjectName": "Applied Mathematics 3",
 			"subjectCode": "AM3",
 			"attendance": "45"
 		}
