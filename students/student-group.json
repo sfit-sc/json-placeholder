@@ -41,7 +41,9 @@
 			"subjectName": "Open Source Technology Laboratory",
 			"subjectCode": "OSTL",
 			"attendance": "100"
-		},
+		}
+	],
+	"tutorialsData": [
 		{
 			"subjectName": "Applied Mathematics 3",
 			"subjectCode": "AM-3",
