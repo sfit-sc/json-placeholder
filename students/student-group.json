@@ -25,5 +25,27 @@
 			"subjectCode": "CG",
 			"attendance": "92"
 		}
+	],
+	"practicalsData": [
+		{
+			"subjectName": "Computer Experiments Laboratory",
+			"subjectCode": "CGL",
+			"attendance": "100"
+		},
+		{
+			"subjectName": "Processor Architecture Laboratory",
+			"subjectCode": "PAL",
+			"attendance": "79"
+		},
+		{
+			"subjectName": "Open Source Technology Laboratory",
+			"subjectCode": "OSTL",
+			"attendance": "100"
+		},
+		{
+			"subjectName": "Applied Mathematics 3",
+			"subjectCode": "AM-3",
+			"attendance": "92"
+		}
 	]
 }]
