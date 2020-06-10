@@ -1,8 +1,10 @@
 [{
 	"id": "1",
 	"name": "Student Name",
-	"email": "Student email",
+	"email": "studentemail@gmail.com",
 	"pid": "111111",
+	"year": "SE",
+	"class": "CMPN A",
 	"photo": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
 	"subjectsData": [
 		{
