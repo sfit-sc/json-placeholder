@@ -14,6 +14,16 @@
 			"subjectName": "Applied Mathematics 3",
 			"subjectCode": "AM3",
 			"attendance": "45"
+		},
+		{
+			"subjectName": "Analysis of Alogorithm",
+			"subjectCode": "AOA",
+			"attendance": "100"
+		},
+		{
+			"subjectName": "Computer Graphics",
+			"subjectCode": "CG",
+			"attendance": "92"
 		}
 	]
 }]
