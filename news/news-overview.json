@@ -1,0 +1,38 @@
+[
+    {
+        "News_title": "Sanshodhan - XIV",
+        "Has_attachment": 0,
+        "Related_to": "Event",
+        "News_ID": "125"
+    },
+    {
+        "News_title": "Retest for IAT-1 Examination",
+        "Has_attachment": 1,
+        "Related_to": "Exam",
+        "News_ID": "189"
+    },
+    {
+        "News_title": "Circular from Mumbai University",
+        "Has_attachment": 1,
+        "Related_to": "Exam",
+        "News_ID": "188"
+    },
+    {
+        "News_title": "Work from home internships for the students by Internshala.",
+        "Has_attachment": 0,
+        "Related_to": "Internship",
+        "News_ID": "186"
+    },
+    {
+        "News_title": "Internships at Cloud Counselage",
+        "Has_attachment": 0,
+        "Related_to": "Internship",
+        "News_ID": "146"
+    },
+    {
+        "News_title": "Internships for 1st year students",
+        "Has_attachment": 0,
+        "Related_to": "Internship",
+        "News_ID": "145"
+    }
+]
