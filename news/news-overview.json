@@ -1,18 +1,21 @@
 [
     {
         "News_title": "Sanshodhan - XIV",
+        "Date": "Jun 15, 2020",
         "Has_attachment": 0,
         "Related_to": "Event",
         "News_ID": "125"
     },
     {
         "News_title": "Retest for IAT-1 Examination",
+        "Date": "Jun 14, 2020",
         "Has_attachment": 1,
         "Related_to": "Exam",
         "News_ID": "189"
     },
     {
         "News_title": "Circular from Mumbai University",
+        "Date": "Jun 14, 2020",
         "Has_attachment": 1,
         "Related_to": "Exam",
         "Image": "https://miro.medium.com/max/2560/1*dnH9jqNuMJeeo1NXTI7eXw.jpeg",
@@ -20,12 +23,14 @@
     },
     {
         "News_title": "Work from home internships for the students by Internshala.",
+        "Date": "Jun 13, 2020",
         "Has_attachment": 0,
         "Related_to": "Internship",
         "News_ID": "186"
     },
     {
         "News_title": "Internships at Cloud Counselage",
+        "Date": "Jun 12, 2020",
         "Has_attachment": 0,
         "Related_to": "Internship",
         "News_ID": "146"
