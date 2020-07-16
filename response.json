@@ -45,6 +45,36 @@
                     "opt_value": 6
                 }
             ]
+        },
+         {
+            "Ques": "New question?",
+            "Sec_Left": 2048,
+            "Poll_opts": [
+                {
+                    "option1": "19",
+                    "opt_value": 4
+                },
+                {
+                    "option2": "18",
+                    "opt_value": 3
+                },
+                {
+                    "option3": "10",
+                    "opt_value": 1
+                },
+                {
+                    "option4": "6",
+                    "opt_value": 2
+                },
+                {
+                    "option5": "35",
+                    "opt_value": 5
+                },
+                {
+                    "option6": "36",
+                    "opt_value": 6
+                }
+            ]
         }
     ]
 }
