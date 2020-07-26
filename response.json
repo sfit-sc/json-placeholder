@@ -48,7 +48,7 @@
         },
          {
             "Ques": "New question?",
-            "Sec_Left": 2048,
+            "Sec_Left": 10,
             "Poll_opts": [
                 {
                     "option": "19",
