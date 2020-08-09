@@ -1,80 +1,130 @@
 {
-    "Error No": 1,
-    "PID": "182028",
-    "Poll_data": [
+  "Error No": 1,
+  "PID": "182028",
+  "Poll_data": [
+    {
+      "Ques": "Is JavaScript a case-sensitive language?",
+      "Sec_Left": 21000,
+      "Poll_opts": [
         {
-            "Ques": "Are you Alan?",
-            "Sec_Left": 34826,
-            "Poll_opts": [
-                {
-                    "option": "No",
-                    "opt_value": 2
-                },
-                {
-                    "option": "Yes",
-                    "opt_value": 1
-                }
-            ]
+          "option": "Yes",
+          "opt_value": 1
         },
         {
-            "Ques": "How old are you?",
-            "Sec_Left": 34804,
-            "Poll_opts": [
-                {
-                    "option": "19",
-                    "opt_value": 4
-                },
-                {
-                    "option": "18",
-                    "opt_value": 3
-                },
-                {
-                    "option": "10",
-                    "opt_value": 1
-                },
-                {
-                    "option": "6",
-                    "opt_value": 2
-                },
-                {
-                    "option": "35",
-                    "opt_value": 5
-                },
-                {
-                    "option": "36",
-                    "opt_value": 6
-                }
-            ]
-        },
-         {
-            "Ques": "New question?",
-            "Sec_Left": 10,
-            "Poll_opts": [
-                {
-                    "option": "19",
-                    "opt_value": 4
-                },
-                {
-                    "option": "18",
-                    "opt_value": 3
-                },
-                {
-                    "option": "10",
-                    "opt_value": 1
-                },
-                {
-                    "option": "6",
-                    "opt_value": 2
-                },
-                {
-                    "option": "35",
-                    "opt_value": 5
-                },
-                {
-                    "option": "36",
-                    "opt_value": 6
-                }
-            ]
+          "option": "No",
+          "opt_value": 2
         }
-    ]
+      ]
+    },
+    {
+      "Ques": "A sort of malware computer program that keeps replicating itself and can easily get diffused into other computers through internet is known as ...",
+      "Sec_Left": 8400,
+      "Poll_opts": [
+        {
+          "option": "Virus",
+          "opt_value": 1
+        },
+        {
+          "option": "Worms",
+          "opt_value": 2
+        },
+        {
+          "option": "Trojans",
+          "opt_value": 3
+        },
+        {
+          "option": "Spyware",
+          "opt_value": 4
+        }
+      ]
+    },
+    {
+      "Ques": "Which among the following is incorrectly matched?",
+      "Sec_Left": 84000,
+      "Poll_opts": [
+        {
+          "option": "PROM Programmable Read Only Memory",
+          "opt_value": 1
+        },
+        {
+          "option": "EPROM Erasable Programmable Read Only Memory",
+          "opt_value": 2
+        },
+        {
+          "option": "ROM Read Only Memory",
+          "opt_value": 3
+        },
+        {
+          "option": "EEPROM Electronically Erasable Programmable Read Only Memory",
+          "opt_value": 4
+        }
+      ]
+    },
+    {
+      "Ques": "The Fourth Generation Computer used …",
+      "Sec_Left": 84000,
+      "Poll_opts": [
+        {
+          "option": "Transistors",
+          "opt_value": 1
+        },
+        {
+          "option": "Integrated circuit",
+          "opt_value": 2
+        },
+        {
+          "option": "Integrated circuit",
+          "opt_value": 3
+        },
+        {
+          "option": "Microprocessor",
+          "opt_value": 4
+        }
+      ]
+    },
+    {
+      "Ques": "A person who sends irrelevant or unsolicited messages by using Internet, usually to large numbers of users, for the purposes of advertising, spreading malware, phishing, etc. is known as …",
+      "Sec_Left": 84000,
+      "Poll_opts": [
+        {
+          "option": "Programmer",
+          "opt_value": 1
+        },
+        {
+          "option": "Hacker",
+          "opt_value": 2
+        },
+        {
+          "option": "Spammer",
+          "opt_value": 3
+        },
+        {
+          "option": "Hobbyist",
+          "opt_value": 4
+        }
+      ]
+    },
+    {
+      "Ques": "Who among the following first coined the term 'wiki?'",
+      "Sec_Left": 84000,
+      "Poll_opts": [
+        {
+          "option": "Julian Assange",
+          "opt_value": 1
+        },
+        {
+          "option": "Rafael Correa",
+          "opt_value": 2
+        },
+        {
+          "option": "Ward Cunningham",
+          "opt_value": 3
+        },
+        {
+          "option": "Greg Chesson",
+          "opt_value": 4
+        }
+      ]
+    }
+  ]
 }
