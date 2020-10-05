@@ -1,9 +1,5 @@
 # SFIT Android Application
 
-## Note:
-
-The main apk file is over 27 mb. Other variants are less than 13mb. If you do not know your mobile architecture [follow these short steps](#Instruction Set).
-
 ## Install
 
 <table>
@@ -42,4 +38,9 @@ The main apk file is over 27 mb. Other variants are less than 13mb. If you do no
     </tbody>
   </table>
 
-# Instruction Set
+
+## Note:
+
+The main apk file is over 27 mb. Other variants are less than 13mb. If you do not know your mobile architecture follow the instructions below
+
+# Instructions
