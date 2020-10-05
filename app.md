@@ -44,6 +44,6 @@ The main apk file is over **27 mb**. Other variants are less than **13mb**. If y
 
 # Instructions
 Download [Droid Hardware Info](https://play.google.com/store/apps/details?id=com.inkwired.droidinfo) from google play store.
-In the **system** tab you can view your **Instruction Set**. Download the specific version from above links.
+In the **system** tab you can view your **Instruction Set**. Download the specific version from above links.\
 ![](./media/ss.jpg)
 
