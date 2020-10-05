@@ -1,11 +1,12 @@
-<html>
-  <style>
-    table {
-      border: 1px solid red;
-    }
-  </style>
+# SFIT Android Application
 
-  <table>
+## Note:
+
+The main apk file is over 27 mb. Other variants are less than 13mb. If you do not know your mobile architecture [follow these short steps](#Instruction Set).
+
+## Install
+
+<table>
     <tbody>
       <tr>
         <th colspan="3" align="center">
@@ -40,4 +41,5 @@
       </tr>
     </tbody>
   </table>
-</html>
+
+# Instruction Set
