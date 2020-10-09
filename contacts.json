@@ -89,6 +89,12 @@
                 "person":"Mr. Sunil Pansare",
                 "extension":"2011",
                 "initials": "SP"
+            },
+            {
+                "deptName":"Elec Department",
+                "person":"Ms. Megha Fernandes",
+                "extension":"281",
+                "initials": "MF"
             }
         ]
     }
